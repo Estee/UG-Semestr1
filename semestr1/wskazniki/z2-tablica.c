@@ -1,4 +1,4 @@
-// Malfunction - too many wornings, no search ;)
+// Malfunction - too many warnings, no search ;)
 
 #include <stdio.h>
 
